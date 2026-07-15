@@ -31,7 +31,7 @@ export default function Footer() {
             ))}
           </div>
 
-          <p style={{ color: '#94A3B8', fontSize: '14px', fontStyle: 'italic', letterSpacing: '0.1em' }}>
+          <p style={{ color: 'var(--text-secondary)', fontSize: '14px', fontStyle: 'italic', letterSpacing: '0.1em' }}>
             © 2024 — Deepak R. Built with Intelligence & Vanilla CSS.
           </p>
 
